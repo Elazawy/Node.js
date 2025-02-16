@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Mohamed",
+        "salary": 1000,
+        "location": "Cairo"
+    },
+    {
+        "id": 2,
+        "name": "Ahmed",
+        "salary": 2000,
+        "location": "Giza"
+    },
+    {
+        "id": 3,
+        "name": "Hossam",
+        "salary": 5000,
+        "location": "Zagazig"
+    },
+    {
+        "id": 4,
+        "name": "Sayed",
+        "salary": 2000,
+        "location": "Banha"
+    }
+]
